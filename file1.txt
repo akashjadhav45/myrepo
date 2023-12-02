@@ -3,8 +3,17 @@ mango
 banana
 orange
 
+
 flower
 ------
 rose
 lily
 jasmine
+
+
+animal
+------
+cat 
+dog
+tiger
+
